@@ -18,7 +18,7 @@ public class TiposVariaveis {
 
         System.out.println("Olá, Seja bem vindo!, qual o seu nome primeiro nome?");
         primeiroNome = scan.nextLine();
-        System.out.println(primeiroNome + " Qual é o seu segundo nome?");
+        System.out.println(primeiroNome + " qual é o seu segundo nome?");
         segundoNome = scan.nextLine();
         System.out.println(primeiroNome + " Digite a sua idade ");
         int idade = scan.nextInt();
